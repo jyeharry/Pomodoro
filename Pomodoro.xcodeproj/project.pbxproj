@@ -16,6 +16,7 @@
 		316B9F702C69D24C00214E61 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316B9F6F2C69D24C00214E61 /* ContentView.swift */; };
 		316B9F722C69D24E00214E61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 316B9F712C69D24E00214E61 /* Assets.xcassets */; };
 		316B9F752C69D24E00214E61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 316B9F742C69D24E00214E61 /* Preview Assets.xcassets */; };
+		316B9F822C69E14800214E61 /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316B9F812C69E14800214E61 /* TimerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		316B9F6F2C69D24C00214E61 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		316B9F712C69D24E00214E61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		316B9F742C69D24E00214E61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		316B9F812C69E14800214E61 /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 			children = (
 				316B9F6D2C69D24C00214E61 /* PomodoroApp.swift */,
 				316B9F6F2C69D24C00214E61 /* ContentView.swift */,
+				316B9F812C69E14800214E61 /* TimerView.swift */,
 				316B9F712C69D24E00214E61 /* Assets.xcassets */,
 				316B9F732C69D24E00214E61 /* Preview Content */,
 			);
@@ -240,6 +243,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				316B9F822C69E14800214E61 /* TimerView.swift in Sources */,
 				316B9F702C69D24C00214E61 /* ContentView.swift in Sources */,
 				316B9F6E2C69D24C00214E61 /* PomodoroApp.swift in Sources */,
 			);
